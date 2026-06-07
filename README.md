@@ -1,6 +1,6 @@
 # Hi, I'm Raimihakim 👋
 
-🔐 **Junior Security Consultant** | Information Security Student from Malaysia
+🔐 Information Security Student
 
 ---
 
