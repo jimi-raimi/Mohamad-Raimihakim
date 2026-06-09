@@ -57,7 +57,7 @@ Skills Demonstrated:
 
 ### Phase 2: HTTP Stream Investigation
 
-Suspicious HTTP GET requests were identified and analyzed using the Follow HTTP Stream feature. The attack payloads were extracted from the captured traffic. }
+Suspicious HTTP GET requests were identified and analyzed using the Follow HTTP Stream feature. The attack payloads were extracted from the captured traffic. 
 
 Skills Demonstrated:
 
