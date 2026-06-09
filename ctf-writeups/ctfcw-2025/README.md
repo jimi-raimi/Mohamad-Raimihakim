@@ -1,7 +1,7 @@
 # 🏴 CTFCW — Writeup
 
-**Category:** Web Exploitation, Cryptography, Miscellaneous, OSINT
-**Solved Challenges:** 9
+**Category:** Web Exploitation, Cryptography, Miscellaneous, OSINT        
+**Solved Challenges:** 9      
 **Platform:** CTFCW  
 
 ### Challenge List
