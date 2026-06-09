@@ -1,7 +1,7 @@
 # 🏴 HackerVerse CTF — Writeup
 
 **Category:** Cryptography / Warm Up  
-**Solved Challenges:** 2  
+**Solved Challenges:** 1
 **Platform:** HackerVerse CTF  
 
 ---
