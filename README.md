@@ -2,29 +2,32 @@
 
 Aspiring Junior Security Consultant with hands-on experience in vulnerability assessment, penetration testing, network analysis, and web application security through laboratory exercises, security projects, and Capture The Flag (CTF) challenges.
 
-## Technical Skills
+## Certifications
 
-### Security Testing
+- CompTIA CySA+
+
+## Education
+
+- Diploma in Digital Technology (Information Security)
+
+## Key Skills
+
 - Vulnerability Assessment
 - Penetration Testing
-- Network Enumeration
-- Web Application Security Testing
+- Web Application Security
+- Network Security
+- Security Reporting
+- Risk Analysis
 
-### Tools
-- Nmap
+## Tools
+
 - Burp Suite
 - Wireshark
+- Nmap
 - SQLMap
 - Nessus Essentials
 - Metasploit
 - Kali Linux
-
-### Areas of Interest
-- Web Application Security
-- Network Security
-- Vulnerability Assessment
-- Penetration Testing
-- Threat Analysis
 
 ---
 
@@ -73,11 +76,6 @@ Personal learning notes covering:
 
 ---
 
-# Certifications
-
-Currently pursuing industry-recognized cybersecurity certifications to strengthen offensive and defensive security knowledge.
-
----
 
 # Objectives
 
