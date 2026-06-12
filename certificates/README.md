@@ -4,3 +4,8 @@
 - Issued by: CompTIA Official Global
 - Date Earned: August 2025
 - Candidate ID: COMP001022878408
+
+# 🏅 Portfolio Certifications
+## 📜 Catch The Flag Cyber Warrior
+
+- Date Earned: September 2025
